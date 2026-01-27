@@ -64,7 +64,7 @@ I’m **Tajwar**, a results-driven **Web Developer** with strong experience buil
 ## 🌐 Connect With Me
 
 - 💼 GitHub: https://github.com/tajwar-t
-- 🌍 Portfolio: _Coming Soon_
+- 🌍 Portfolio: https://github-readme-stats.vercel.app
 - 💬 Open for freelance & collaborations
 
 ---
