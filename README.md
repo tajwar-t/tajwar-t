@@ -51,8 +51,6 @@ I’m **Tajwar**, a results-driven **Web Developer** with strong experience buil
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-new-chi.vercel.app/api/stats?username=tajwar-t&v=3)
-
 <p align="center">
   <img src="https://github-stats-new-chi.vercel.app/api/stats?username=tajwar-t&withGraph=true" height="400"/>
 </p>
