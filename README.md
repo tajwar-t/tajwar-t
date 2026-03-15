@@ -60,7 +60,7 @@ I’m **Tajwar**, a results-driven **Web Developer** with strong experience buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-t&layout=compact&theme=github_dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-t&layout=compact&theme=github_dark&hide_border=true" height="220"/>
 </p>
 
 ---
