@@ -1,74 +1,67 @@
-<h1 align="center">Hi 👋, I'm Tajwar</h1>
-<h3 align="center">Full-Stack Web Developer | WordPress • Shopify • Laravel • React</h3>
+<h1 align="center">Hi, I'm Tajwar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Web+Developer+%7C+Personal+Brand;WordPress+%26+Shopify+Expert;Laravel+%26+React+Developer;Performance+Focused+Builder">
+  Full-Stack Developer · Building clean, purposeful web experiences
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tajwar-t&label=Profile%20Views&color=0d1117&style=flat" />
+  <a href="https://github.com/tajwar-t">
+    <img src="https://komarev.com/ghpvc/?username=tajwar-t&style=flat-square&color=6e7681&label=profile+views" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### About Me
 
-I’m **Tajwar**, a results-driven **Web Developer** with strong experience building fast, scalable, and SEO-friendly websites and applications.
-
-- 🧩 WordPress, Shopify & Magento 2 specialist
-- ⚙️ Backend: PHP, Laravel
-- ⚛️ Frontend: React, JavaScript, HTML, CSS
-- 🚀 Focused on performance, clean architecture & UX
-- 🌍 Working with global clients
+- 🛠️ I build full-stack web applications with **React / Next.js** on the front and **Laravel** on the back
+- 🎯 I care about clean code, intuitive UIs, and scalable architecture
+- 🌱 Always learning, always shipping
 
 ---
 
-## 🛠 Tech Stack
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tajwar-t&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-t&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+### Let's Connect
 
 <p>
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress"/>
-  <img src="https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify"/>
-  <img src="https://img.shields.io/badge/Magento-0d1117?style=for-the-badge&logo=magento"/>
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3"/>
+  <a href="https://github.com/tajwar-t">
+    <img src="https://img.shields.io/badge/GitHub-tajwar--t-181717?style=flat-square&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 📌 What I Build
-
-- ⚡ Custom WordPress plugins & themes
-- 🛒 Shopify & Magento 2 eCommerce stores
-- 🧱 Laravel APIs & dashboards
-- ⚛️ React-based interfaces
-- 🚀 High-performance, SEO-optimized websites
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-stats-new-chi.vercel.app/api/stats?username=tajwar-t&withGraph=true" height="425"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajwar-t&layout=compact&theme=github_dark&hide_border=true" height="140"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 💼 GitHub: https://github.com/tajwar-t
-- 🌍 Portfolio: https://github-readme-stats.vercel.app
-- 💬 Open for freelance & collaborations
-
----
-
-<p align="center">
-  <b>Building clean, scalable & future-proof web solutions 🚀</b>
+  <sub>Made with ☕ and a lot of console.log()</sub>
 </p>
